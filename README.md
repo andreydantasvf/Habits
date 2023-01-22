@@ -3,7 +3,7 @@
 ## 🔖Preview
 
 <p >
-	  <img alt="Layout" src=".github/preview.png" widht="400px" height="400px">
+	  <img alt="Layout" src=".github/preview.png" widht="700px" height="400px">
 	</p>
  
   
