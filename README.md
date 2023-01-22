@@ -2,7 +2,7 @@
 
 ## 🔖Preview
 
-<p >
+<p align="center">
 	  <img alt="Layout" src=".github/preview.png" widht="700px" height="400px">
 	</p>
  
